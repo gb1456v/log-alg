@@ -2,4 +2,4 @@ Bibliotecas:O que são? Como usar?
 #include <stdio.h>
 blibliotecas são conjuntos de códigos prontos criados ou pelo programador ou por outros programadores.
 Usamos o comando "#include" para incluir blibliotecas que queremos utilizar
-stdio é a bliblioteca padrão do C que possuí as funções de entrada e saída
+stdio.h é a bliblioteca padrão do C que possuí as funções de entrada e saída
